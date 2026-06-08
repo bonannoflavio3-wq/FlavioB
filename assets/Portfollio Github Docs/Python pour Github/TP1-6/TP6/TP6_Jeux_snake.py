@@ -2,9 +2,9 @@ import tkinter as tk
 import random
 
 # Paramètres du jeu
-largeur = 300
-hauteur = 300
-SPACE_SIZE = 13
+largeur = 1000
+hauteur = 500
+SPACE_SIZE = 20
 
 class SnakeGame:
     def __init__(self, root):
